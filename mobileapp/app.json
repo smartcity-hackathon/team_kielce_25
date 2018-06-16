@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "android": {
+      "package": "pl.hackathon.app"
+    }
+  },
+  "android": {
+    "package": "com.codingmechanic.mapcuny",
+    "config": {
+      "googleMaps": { "apiKey": "AIzaSyAW3sTtDcjGA8gZcuDkhiw4teJPjS04siw" }
+    }
+  }
+}
